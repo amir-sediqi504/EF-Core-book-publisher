@@ -1,0 +1,5 @@
+C:\Users\amirs\Desktop\Utveckling-mot-databas\Publisher\Publisher\obj\Debug\net6.0\PublisherCon.csproj.AssemblyReference.cache
+C:\Users\amirs\Desktop\Utveckling-mot-databas\Publisher\Publisher\obj\Debug\net6.0\PublisherCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirs\Desktop\Utveckling-mot-databas\Publisher\Publisher\obj\Debug\net6.0\PublisherCon.AssemblyInfoInputs.cache
+C:\Users\amirs\Desktop\Utveckling-mot-databas\Publisher\Publisher\obj\Debug\net6.0\PublisherCon.AssemblyInfo.cs
+C:\Users\amirs\Desktop\Utveckling-mot-databas\Publisher\Publisher\obj\Debug\net6.0\PublisherCon.csproj.CoreCompileInputs.cache
